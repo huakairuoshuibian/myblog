@@ -1,3 +1,3 @@
 <?php
-hello LAO WANG;
+echo "my first git";
 ?>
